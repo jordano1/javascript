@@ -19,4 +19,4 @@ if (temp <= 32) {
     console.log("hot")
 }else{
     console.log("perfect")
-}
+}s
